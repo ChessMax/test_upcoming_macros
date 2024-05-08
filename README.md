@@ -13,4 +13,4 @@ Example `dart --enable-experiment=macros bin/hello_main.dart`.
 - official_fixed folder contains some of the [official examples](https://github.com/dart-lang/language/tree/main/working/macros/example)
 "fixed" to be able to run them;
 - www folder contains examples found in the internet;
-- *_gen.dart files contain generated code for some applied macroses.
+- *_gen.dart files contain generated code for some applied macros.
