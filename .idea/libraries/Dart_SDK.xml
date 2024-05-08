@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="Dart SDK">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/async" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/cli" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/collection" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/convert" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/core" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/developer" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/ffi" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/html" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/indexed_db" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/io" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/isolate" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/js" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/js_interop" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/js_interop_unsafe" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/js_util" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/math" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/mirrors" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/svg" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/typed_data" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/web_audio" />
+      <root url="file://$PROJECT_DIR$/../../SDKs/dart-sdk-3.5.0-69.0.dev/lib/web_gl" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

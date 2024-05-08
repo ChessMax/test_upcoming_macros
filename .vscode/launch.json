@@ -1,0 +1,121 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "adt_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/www/adt_main.dart",
+		},		{
+			"name": "assets_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/assets_main.dart",
+		},
+		{
+			"name": "augment_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/augment_main.dart",
+		},
+		{
+			"name": "config_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/config_main.dart",
+		},
+		{
+			"name": "functional_widget_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/official_fixed/functional_widget_main.dart",
+		},
+		{
+			"name": "hello_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/hello_main.dart",
+		},
+		{
+			"name": "multicast_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/multicast_main.dart",
+		},
+		{
+			"name": "router_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/router_main.dart",
+		},
+		{
+			"name": "custom_theme_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/custom_theme_main.dart",
+		},
+		{
+			"name": "data_class_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/official_fixed/data_class_main.dart",
+		},
+		{
+			"name": "auto_dispose_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/official_fixed/auto_dispose_main.dart",
+		},
+		{
+			"name": "json_serializable_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/official_fixed/json_serializable_main.dart",
+		},
+		{
+			"name": "observable_main",
+			"request": "launch",
+			"type": "dart",
+			"toolArgs": [
+				"--enable-experiment=macros",
+			],
+			"program": "bin/official_fixed/observable_main.dart",
+		}
+	]
+}
