@@ -1,4 +1,4 @@
-Small collection Dart macros - a new upcoming feature. Source code for my article.
+Small collection of Dart macros - a new upcoming feature. Source code for my article.
 
 # SDK setup
 
