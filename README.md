@@ -1,5 +1,7 @@
 Small collection of Dart macros - a new upcoming feature. Source code for my article.
 
+**DISCLAIMER**: All code in this package is experimental and should be treated as such. The examples are unstable and may or may not work at any given time, depending on the implementation status.
+
 # SDK setup
 
 Download Dart SDK 3.5.0-69.0.dev from [here](https://dart.dev/get-dart/archive).
