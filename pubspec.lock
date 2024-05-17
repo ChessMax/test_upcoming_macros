@@ -2,19 +2,18 @@
 # See https://dart.dev/tools/pub/glossary#lockfile
 packages:
   _fe_analyzer_shared:
-    dependency: "direct dev"
+    dependency: transitive
     description:
-      path: "pkg/_fe_analyzer_shared"
-      ref: main
-      resolved-ref: bda15ba43e55916612a1fa5d4e879369e9e1f784
-      url: "https://github.com/dart-lang/sdk.git"
-    source: git
+      name: _fe_analyzer_shared
+      sha256: "5aaf60d96c4cd00fe7f21594b5ad6a1b699c80a27420f8a837f4d68473ef09e3"
+      url: "https://pub.dev"
+    source: hosted
     version: "68.0.0"
   _macros:
     dependency: transitive
     description: dart
     source: sdk
-    version: "0.1.3"
+    version: "0.1.5"
   analyzer:
     dependency: transitive
     description:
@@ -154,12 +153,11 @@ packages:
   macros:
     dependency: "direct main"
     description:
-      path: "pkg/macros"
-      ref: main
-      resolved-ref: bda15ba43e55916612a1fa5d4e879369e9e1f784
-      url: "https://github.com/dart-lang/sdk.git"
-    source: git
-    version: "0.1.0-main.3"
+      name: macros
+      sha256: a8403c89b36483b4cbf9f1fcd24562f483cb34a5c9bf101cf2b0d8a083cf1239
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0-main.5"
   matcher:
     dependency: transitive
     description:
