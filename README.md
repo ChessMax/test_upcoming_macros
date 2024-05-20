@@ -1,4 +1,4 @@
-Small collection of Dart macros - a new upcoming feature. Source code for my article.
+Small collection of Dart macros - a new upcoming feature. Source code for my [article](https://chessmax.ru/posts/upcoming-dart-macros.html) or [here](https://habr.com/ru/articles/815527/).
 
 **DISCLAIMER**: All code in this package is experimental and should be treated as such. The examples are unstable and may or may not work at any given time, depending on the implementation status.
 
